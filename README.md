@@ -104,60 +104,93 @@ Currently learning and practicing:
 
 # Future Labs (Roadmap)
 
-<!-- LAB 04 -->
-<!--
+These labs are planned as part of the AZ-104 training journey.
+
+---
+
 ## Lab 04 - Virtual Networking
+![Networking](https://img.shields.io/badge/Azure_Virtual_Networking-Upcoming-lightgrey?style=for-the-badge)
+
 - Virtual Networks (VNets)
 - Subnets
-- NSGs
--->
+- Network Security Groups (NSGs)
 
-<!-- LAB 05 -->
-<!--
+Status: Not started
+
+---
+
 ## Lab 05 - Inter-site Connectivity
-- VPN Gateway
-- Hybrid networking
--->
+![VPN](https://img.shields.io/badge/Azure_VPN_Gateway-Upcoming-lightgrey?style=for-the-badge)
 
-<!-- LAB 06 -->
-<!--
+- VPN Gateway
+- Site-to-Site connectivity
+- Hybrid networking
+
+Status: Not started
+
+---
+
 ## Lab 06 - Traffic Management
+![Load Balancer](https://img.shields.io/badge/Azure_Load_Balancer-Upcoming-lightgrey?style=for-the-badge)
+
 - Load Balancer
 - Traffic Manager
--->
 
-<!-- LAB 07 -->
-<!--
+Status: Not started
+
+---
+
 ## Lab 07 - Storage
-- Azure Storage Accounts
--->
+![Storage](https://img.shields.io/badge/Azure_Storage-Upcoming-lightgrey?style=for-the-badge)
 
-<!-- LAB 08 -->
-<!--
+- Storage Accounts
+- Blob / File storage
+
+Status: Not started
+
+---
+
 ## Lab 08 - Virtual Machines
-- Azure VMs
--->
+![VM](https://img.shields.io/badge/Azure_Virtual_Machines-Upcoming-lightgrey?style=for-the-badge)
 
-<!-- LAB 09 -->
-<!--
+- Virtual Machines
+- Images
+- Extensions
+
+Status: Not started
+
+---
+
 ## Lab 09 - App Services & Containers
+![AppService](https://img.shields.io/badge/Azure_App_Service-Upcoming-lightgrey?style=for-the-badge)
+![Containers](https://img.shields.io/badge/Azure_Containers-Upcoming-lightgrey?style=for-the-badge)
+
 - App Service
 - Container Instances
 - Container Apps
--->
 
-<!-- LAB 10 -->
-<!--
+Status: Not started
+
+---
+
 ## Lab 10 - Data Protection
-- Azure Backup
--->
+![Backup](https://img.shields.io/badge/Azure_Backup-Upcoming-lightgrey?style=for-the-badge)
 
-<!-- LAB 11 -->
-<!--
+- Azure Backup
+- Recovery Services Vault
+
+Status: Not started
+
+---
+
 ## Lab 11 - Monitoring
+![Monitor](https://img.shields.io/badge/Azure_Monitor-Upcoming-lightgrey?style=for-the-badge)
+
 - Azure Monitor
 - Log Analytics
--->
+- VM Insights
+
+Status: Not started
 
 ---
 
