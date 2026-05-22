@@ -16,7 +16,7 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 
 - Build practical experience with Microsoft Azure
 - Learn cloud administration through hands-on labs
-- Develop Infrastructure as Code (IaC) skills
+- Develop Infrastructure as Code (ARM Templates & Bicep)
 - Practice Azure governance and security
 - Gain experience with Azure CLI and PowerShell
 - Prepare for the AZ-104 certification exam
@@ -37,7 +37,6 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 
 - ARM Templates
 - Azure Bicep
-- Terraform (planned)
 
 ## Automation & Management
 
@@ -100,7 +99,65 @@ Currently learning and practicing:
 - Azure CLI & PowerShell
 - Azure Governance
 - Cloud Automation
-- Terraform (next step)
+
+---
+
+# Future Labs (Roadmap)
+
+<!-- LAB 04 -->
+<!--
+## Lab 04 - Virtual Networking
+- Virtual Networks (VNets)
+- Subnets
+- NSGs
+-->
+
+<!-- LAB 05 -->
+<!--
+## Lab 05 - Inter-site Connectivity
+- VPN Gateway
+- Hybrid networking
+-->
+
+<!-- LAB 06 -->
+<!--
+## Lab 06 - Traffic Management
+- Load Balancer
+- Traffic Manager
+-->
+
+<!-- LAB 07 -->
+<!--
+## Lab 07 - Storage
+- Azure Storage Accounts
+-->
+
+<!-- LAB 08 -->
+<!--
+## Lab 08 - Virtual Machines
+- Azure VMs
+-->
+
+<!-- LAB 09 -->
+<!--
+## Lab 09 - App Services & Containers
+- App Service
+- Container Instances
+- Container Apps
+-->
+
+<!-- LAB 10 -->
+<!--
+## Lab 10 - Data Protection
+- Azure Backup
+-->
+
+<!-- LAB 11 -->
+<!--
+## Lab 11 - Monitoring
+- Azure Monitor
+- Log Analytics
+-->
 
 ---
 
