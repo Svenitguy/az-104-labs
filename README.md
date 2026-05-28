@@ -6,6 +6,13 @@
 ![Azure CLI](https://img.shields.io/badge/Azure_CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## Core Azure Focus Areas
+
+![Azure Networking](https://img.shields.io/badge/Azure-Networking-0078D4)
+![Azure Security](https://img.shields.io/badge/Azure-Security-0078D4)
+![Azure Infrastructure as Code](https://img.shields.io/badge/Azure-IaC-0078D4)
+![Azure Governance](https://img.shields.io/badge/Azure-Governance-0078D4)
+
 This repository contains my hands-on lab exercises based on the official Microsoft AZ-104 Azure Administrator training labs.
 
 The goal of this repository is to move beyond theoretical Azure knowledge and develop practical cloud engineering skills through real-world deployments, governance, automation, and Infrastructure as Code (IaC).
@@ -76,6 +83,7 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 | Lab 02a | Manage Subscriptions and RBAC | Completed |
 | Lab 02b | Manage Governance via Azure Policy | Completed |
 | Lab 03 | Manage Azure Resources using ARM Templates & Bicep | Completed |
+| Lab 04 | Virtual Networking (VNet, NSG, ASG, DNS) | Completed |
 
 ---
 
@@ -105,17 +113,6 @@ Currently learning and practicing:
 # Future Labs (Roadmap)
 
 These labs are planned as part of the AZ-104 training journey.
-
----
-
-## Lab 04 - Virtual Networking
-![Networking](https://img.shields.io/badge/Azure_Virtual_Networking-Upcoming-lightgrey?style=for-the-badge)
-
-- Virtual Networks (VNets)
-- Subnets
-- Network Security Groups (NSGs)
-
-Status: Not started
 
 ---
 
