@@ -1,25 +1,39 @@
 # AZ-104 Azure Administrator Labs
 
+## ☁️ Cloud Engineering Portfolio
+
+![AZ-104](https://img.shields.io/badge/AZ--104-Exam_Track-blue)
+![Progress](https://img.shields.io/badge/Status-Active-success)
+
+---
+
+## 🧰 Core Tools
+
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Bicep](https://img.shields.io/badge/Bicep-1F4B99?style=for-the-badge)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Azure CLI](https://img.shields.io/badge/Azure_CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## Core Azure Focus Areas
+---
 
-![Azure Networking](https://img.shields.io/badge/Azure-Networking-0078D4)
-![Azure Security](https://img.shields.io/badge/Azure-Security-0078D4)
-![Azure Infrastructure as Code](https://img.shields.io/badge/Azure-IaC-0078D4)
-![Azure Governance](https://img.shields.io/badge/Azure-Governance-0078D4)
+## 🎯 Azure Skill Domains
 
-This repository contains my hands-on lab exercises based on the official Microsoft AZ-104 Azure Administrator training labs.
+![Networking](https://img.shields.io/badge/Networking-0078D4)
+![Identity_&_IAM](https://img.shields.io/badge/Identity_&_IAM-0078D4)
+![Security](https://img.shields.io/badge/Security-0078D4)
+![IaC](https://img.shields.io/badge/Infrastructure_as_Code-0078D4)
+![Compute](https://img.shields.io/badge/Compute-0078D4)
+![Storage](https://img.shields.io/badge/Storage-0078D4)
+![Monitoring](https://img.shields.io/badge/Monitoring-0078D4)
+
+## 📌 Overview
 
 The goal of this repository is to move beyond theoretical Azure knowledge and develop practical cloud engineering skills through real-world deployments, governance, automation, and Infrastructure as Code (IaC).
 
 ---
 
-# Objectives
+## 🎯 Objectives
 
 - Build practical experience with Microsoft Azure
 - Learn cloud administration through hands-on labs
@@ -31,34 +45,34 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 
 ---
 
-# Technologies & Skills
+## 🧰 Technologies & Skills
 
-## Cloud & Identity
+### Cloud & Identity
 
 - Microsoft Azure
 - Microsoft Entra ID
 - Azure Resource Groups
 - RBAC & IAM
 
-## Infrastructure as Code (IaC)
+### Infrastructure as Code (IaC)
 
 - ARM Templates
 - Azure Bicep
 
-## Automation & Management
+### Automation & Management
 
 - Azure CLI
 - Azure PowerShell
 - Azure Cloud Shell
 
-## Networking
+### Networking
 
 - Virtual Networks (VNets)
 - Network Security Groups (NSGs)
 - Load Balancers
 - VPN & Inter-site Connectivity
 
-## Compute & Storage
+### Compute & Storage
 
 - Virtual Machines
 - App Services
@@ -66,7 +80,7 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 - Azure Storage Accounts
 - Containers
 
-## Governance & Monitoring
+### Governance & Monitoring
 
 - Azure Policy
 - Resource Locks
@@ -75,7 +89,7 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 
 ---
 
-# Completed Labs
+## 📚 Completed Labs
 
 | Lab | Topic | Status |
 |---|---|---|
@@ -84,10 +98,11 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 | Lab 02b | Manage Governance via Azure Policy | Completed |
 | Lab 03 | Manage Azure Resources using ARM Templates & Bicep | Completed |
 | Lab 04 | Virtual Networking (VNet, NSG, ASG, DNS) | Completed |
+| Lab 05 | Inter-site Connectivity | Completed |
 
 ---
 
-# Learning Approach
+## 📈 Learning Approach
 
 Each lab includes:
 
@@ -99,7 +114,7 @@ Each lab includes:
 
 ---
 
-# Current Focus
+## 🔭 Current Focus
 
 Currently learning and practicing:
 
@@ -110,24 +125,13 @@ Currently learning and practicing:
 
 ---
 
-# Future Labs (Roadmap)
+## 🛣️ Future Labs (Roadmap)
 
 These labs are planned as part of the AZ-104 training journey.
 
 ---
 
-## Lab 05 - Inter-site Connectivity
-![VPN](https://img.shields.io/badge/Azure_VPN_Gateway-Upcoming-lightgrey?style=for-the-badge)
-
-- VPN Gateway
-- Site-to-Site connectivity
-- Hybrid networking
-
-Status: Not started
-
----
-
-## Lab 06 - Traffic Management
+### Lab 06 - Traffic Management
 ![Load Balancer](https://img.shields.io/badge/Azure_Load_Balancer-Upcoming-lightgrey?style=for-the-badge)
 
 - Load Balancer
@@ -137,7 +141,7 @@ Status: Not started
 
 ---
 
-## Lab 07 - Storage
+### Lab 07 - Storage
 ![Storage](https://img.shields.io/badge/Azure_Storage-Upcoming-lightgrey?style=for-the-badge)
 
 - Storage Accounts
@@ -147,7 +151,7 @@ Status: Not started
 
 ---
 
-## Lab 08 - Virtual Machines
+### Lab 08 - Virtual Machines
 ![VM](https://img.shields.io/badge/Azure_Virtual_Machines-Upcoming-lightgrey?style=for-the-badge)
 
 - Virtual Machines
@@ -158,7 +162,7 @@ Status: Not started
 
 ---
 
-## Lab 09 - App Services & Containers
+### Lab 09 - App Services & Containers
 ![AppService](https://img.shields.io/badge/Azure_App_Service-Upcoming-lightgrey?style=for-the-badge)
 ![Containers](https://img.shields.io/badge/Azure_Containers-Upcoming-lightgrey?style=for-the-badge)
 
@@ -170,7 +174,7 @@ Status: Not started
 
 ---
 
-## Lab 10 - Data Protection
+### Lab 10 - Data Protection
 ![Backup](https://img.shields.io/badge/Azure_Backup-Upcoming-lightgrey?style=for-the-badge)
 
 - Azure Backup
@@ -180,7 +184,7 @@ Status: Not started
 
 ---
 
-## Lab 11 - Monitoring
+### Lab 11 - Monitoring
 ![Monitor](https://img.shields.io/badge/Azure_Monitor-Upcoming-lightgrey?style=for-the-badge)
 
 - Azure Monitor
@@ -191,6 +195,6 @@ Status: Not started
 
 ---
 
-# Goal
+## 🎯 Goal
 
 To transition from beginner-level Azure administration knowledge to practical cloud engineering and DevOps skills through consistent hands-on practice.
