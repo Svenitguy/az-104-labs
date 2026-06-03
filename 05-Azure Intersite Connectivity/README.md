@@ -175,27 +175,27 @@ This demonstrates how Azure route tables can be used to enforce controlled traff
 
 ### Virtual Machine Deployments
 
-![VM Deployment](./screenshots/task1-coreservicesvm-created.PNG)
+![VM Deployment](./screenshots/01-task1-vm-basics-configuration.PNG)
 
 ### Network Watcher Connectivity Test
 
-![Network Watcher](./screenshots/task3-network-watcher-unreachable.PNG)
+![Network Watcher](./screenshots/13-task3-connectivity-unreachable.PNG)
 
 ### VNet Peering Configuration
 
-![VNet Peering](./screenshots/task4-vnet-peering-connected.PNG)
+![VNet Peering](./screenshots/15-task4-coreservices-peering-connected.PNG)
 
 ### PowerShell Connectivity Validation
 
-![PowerShell Test](./screenshots/task5-test-netconnection-success.PNG)
+![PowerShell Test](./screenshots/18-task5-test-netconnection-command.PNG)
 
 ### Route Table Configuration
 
-![Route Table](./screenshots/task6-route-table-created.PNG)
+![Route Table](./screenshots/20-task6-route-table-creation.PNG)
 
 ### User Defined Route
 
-![UDR](./screenshots/task6-user-defined-route.PNG)
+![UDR](./screenshots/21-task6-user-defined-route.PNG)
 
 ---
 
