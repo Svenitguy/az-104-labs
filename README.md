@@ -69,7 +69,8 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 
 - Virtual Networks (VNets)
 - Network Security Groups (NSGs)
-- Load Balancers
+- Azure Load Balancers
+- Azure Application Gateway
 - VPN & Inter-site Connectivity
 
 ### Compute & Storage
@@ -99,6 +100,7 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 | Lab 03 | Manage Azure Resources using ARM Templates & Bicep | Completed |
 | Lab 04 | Virtual Networking (VNet, NSG, ASG, DNS) | Completed |
 | Lab 05 | Inter-site Connectivity | Completed |
+| Lab 06 | Network Traffic Management (Azure Load Balancer & Azure Application Gateway) | Completed |
 
 ---
 
@@ -128,16 +130,6 @@ Currently learning and practicing:
 ## 🛣️ Future Labs (Roadmap)
 
 These labs are planned as part of the AZ-104 training journey.
-
----
-
-### Lab 06 - Traffic Management
-![Load Balancer](https://img.shields.io/badge/Azure_Load_Balancer-Upcoming-lightgrey?style=for-the-badge)
-
-- Load Balancer
-- Traffic Manager
-
-Status: Not started
 
 ---
 
