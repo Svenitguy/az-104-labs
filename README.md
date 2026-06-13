@@ -101,6 +101,7 @@ The goal of this repository is to move beyond theoretical Azure knowledge and de
 | Lab 04 | Virtual Networking (VNet, NSG, ASG, DNS) | Completed |
 | Lab 05 | Inter-site Connectivity | Completed |
 | Lab 06 | Network Traffic Management (Azure Load Balancer & Azure Application Gateway) | Completed |
+| Lab 07 | Azure Storage (Blob Storage, Azure Files, RBAC, SAS, Lifecycle Management) | Completed |
 
 ---
 
@@ -120,9 +121,11 @@ Each lab includes:
 
 Currently learning and practicing:
 
+- Azure Storage & Data Protection
+- Azure Virtual Machines
 - Azure Infrastructure as Code (ARM & Bicep)
 - Azure CLI & PowerShell
-- Azure Governance
+- Azure Governance & Security
 - Cloud Automation
 
 ---
@@ -130,18 +133,6 @@ Currently learning and practicing:
 ## 🛣️ Future Labs (Roadmap)
 
 These labs are planned as part of the AZ-104 training journey.
-
----
-
-### Lab 07 - Storage
-![Storage](https://img.shields.io/badge/Azure_Storage-Upcoming-lightgrey?style=for-the-badge)
-
-- Storage Accounts
-- Blob / File storage
-
-Status: Not started
-
----
 
 ### Lab 08 - Virtual Machines
 ![VM](https://img.shields.io/badge/Azure_Virtual_Machines-Upcoming-lightgrey?style=for-the-badge)
